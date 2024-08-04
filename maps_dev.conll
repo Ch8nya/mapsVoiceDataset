@@ -1,9 +1,9 @@
-Navigate	B-goTo
+Navigate	O
 near	O
 Charminar	B-location
 .	O
 
-Move	B-goTo
+Move	O
 the	O
 map	O
 close	O
@@ -20,7 +20,7 @@ Victoria	B-location
 Memorial	I-location
 .	O
 
-Find	B-goTo
+Find	O
 the	O
 location	O
 near	O
@@ -28,7 +28,7 @@ Marine	B-location
 Drive	I-location
 .	O
 
-Move	B-goTo
+Move	O
 to	O
 the	O
 vicinity	O
@@ -38,7 +38,7 @@ Botanical	I-location
 Garden	I-location
 .	O
 
-Show	B-goTo
+Show	O
 the	O
 area	O
 around	O
@@ -46,7 +46,7 @@ Hawa	B-location
 Mahal	I-location
 .	O
 
-Go	B-goTo
+Go	O
 to	O
 the	O
 region	O
@@ -56,7 +56,7 @@ Film	I-location
 City	I-location
 .	O
 
-Navigate	B-goTo
+Navigate	O
 to	O
 the	O
 surroundings	O
@@ -65,7 +65,7 @@ Qutub	B-location
 Minar	I-location
 .	O
 
-Move	B-goTo
+Move	O
 the	O
 view	O
 to	O
@@ -76,7 +76,7 @@ Connaught	B-location
 Place	I-location
 .	O
 
-Show	B-goTo
+Show	O
 the	O
 map	O
 around	O
@@ -92,7 +92,7 @@ Red	B-location
 Fort	I-location
 .	O
 
-Locate	B-goTo
+Locate	O
 the	O
 area	O
 around	O
@@ -101,7 +101,7 @@ Sagar	I-location
 Lake	I-location
 .	O
 
-Show	B-goTo
+Show	O
 the	O
 vicinity	O
 of	O
@@ -109,7 +109,7 @@ Howrah	B-location
 Bridge	I-location
 .	O
 
-Find	B-goTo
+Find	O
 places	O
 near	O
 Chhatrapati	B-location
@@ -118,7 +118,7 @@ Maharaj	I-location
 Terminus	I-location
 .	O
 
-Move	B-goTo
+Move	O
 to	O
 the	O
 area	O
@@ -128,7 +128,7 @@ Nandi	B-location
 Hills	I-location
 .	O
 
-Show	B-goTo
+Show	O
 the	O
 surroundings	O
 of	O
@@ -137,7 +137,7 @@ Meenakshi	B-location
 Temple	I-location
 .	O
 
-Navigate	B-goTo
+Navigate	O
 near	O
 the	O
 Golden	B-location
@@ -151,7 +151,7 @@ Dal	B-location
 Lake	I-location
 .	O
 
-Find	B-goTo
+Find	O
 the	O
 location	O
 close	O
@@ -160,7 +160,7 @@ Elephanta	B-location
 Caves	I-location
 .	O
 
-Move	B-goTo
+Move	O
 to	O
 the	O
 vicinity	O
