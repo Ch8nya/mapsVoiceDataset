@@ -154,7 +154,7 @@ New	B-location
 York	I-location
 .	O
 
-Go	B-goTo
+Go	O
 to	O
 Los	B-location
 Angeles	I-location
@@ -163,7 +163,7 @@ Angeles	I-location
 Center	O
 the	O
 view	O
-around	B-goTo
+around	O
 San	B-location
 Francisco	I-location
 .	O
@@ -171,20 +171,20 @@ Francisco	I-location
 Move	O
 the	O
 map	O
-near	B-goTo
+near	O
 Mumbai	B-location
 .	O
 
 Take	O
 me	O
-to	B-goTo
+to	O
 Tokyo	B-location
 on	O
 the	O
 map	O
 .	O
 
-Navigate	B-goTo
+Navigate	O
 to	O
 the	O
 area	O
@@ -200,7 +200,7 @@ London	B-location
 
 Can	O
 you	O
-show	B-goTo
+show	O
 the	O
 map	O
 of	O
